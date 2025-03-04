@@ -113,7 +113,7 @@ const config = {
             items: [
               {
                 label: "ReactJS",
-                to: "/docs/category/js-documentations",
+                to: "/docs/category/reactjs-documentations",
               },
             ],
           },

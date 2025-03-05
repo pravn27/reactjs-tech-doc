@@ -10,4 +10,4 @@ sidebar_position: 1
 
 ## Overview
 
-- [How JavaScript Works 🔥& Execution Context](./readerDoc/E1-executionContext.md)
+- [E1-Inception](./readerDoc/E1-Inception/E1-Inception.md)

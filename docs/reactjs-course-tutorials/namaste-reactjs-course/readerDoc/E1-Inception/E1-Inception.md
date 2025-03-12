@@ -26,25 +26,29 @@ sidebar_position: 1
 
 A **library** is a collection of reusable functions, components, or utilities that developers can call as needed. It provides specific functionalities that help in building frontend interfaces but does not enforce a particular structure for the application.
 
-### Characteristics of a Library:
+**Characteristics of a Library:**
 
 - **Selective Usage:** Developers can pick and use specific functions or components without committing to a particular structure.
 - **Lightweight:** Typically, libraries focus on a specific aspect of UI development (e.g., DOM manipulation, state management, animations).
 - **Greater Flexibility:** The developer has control over how the library is integrated into the project.
 - **Example:** React.js, jQuery, Lodash.
 
-## Framework
+---
+
+**Framework**
 
 A **framework** is a more opinionated and comprehensive solution that dictates the architecture and flow of an application. It provides built-in structures, patterns, and lifecycle management to streamline UI development.
 
-### Characteristics of a Framework:
+**Characteristics of a Framework:**
 
 - **Inversion of Control:** The framework calls the developer's code rather than the other way around.
 - **Opinionated Structure:** Enforces a specific architecture (e.g., MVC, MVVM).
 - **Comprehensive Feature Set:** Often includes routing, state management, and component-based UI structure.
 - **Example:** Angular, Vue.js, Ember.js.
 
-## Key Differences
+---
+
+**Key Differences**
 
 | Feature        | Library                      | Framework                              |
 | -------------- | ---------------------------- | -------------------------------------- |
@@ -54,11 +58,13 @@ A **framework** is a more opinionated and comprehensive solution that dictates t
 | Scope          | Solves specific problems     | Provides a full solution               |
 | Example        | React, jQuery, Lodash        | Angular, Vue, Ember                    |
 
-## Conclusion
+**Conclusion**
 
 Choosing between a library and a framework depends on project requirements. Libraries offer more flexibility but require additional setup, whereas frameworks provide a structured approach, reducing decision fatigue but imposing constraints. Understanding their differences helps in selecting the right tool for frontend UI development.
 
-## Analogy
+---
+
+**Analogy**
 
 - Library: Like picking ingredients to cook your own meal.
 - Framework: Like following a recipe with step-by-step instructions.
@@ -66,8 +72,6 @@ Choosing between a library and a framework depends on project requirements. Libr
 View Answer
 </summary>
 </details>
-
----
 
 2. What is VSCode Emmet?
 
@@ -95,4 +99,4 @@ View Answer
 
 ---
 
-## Stopped at 1hr 5min
+**Stopped at 1hr 5min**

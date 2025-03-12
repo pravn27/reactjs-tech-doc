@@ -9,6 +9,14 @@ sidebar_position: 1
 - [E1-Inception Notes](https://github.com/pravn27/reactjs-tech-doc/blob/master/docs/reactjs-course-tutorials/namaste-reactjs-course/readerDoc/E1-Inception/E1-Inception.pdf)
 - [Assignment 01 - Inception](https://github.com/pravn27/reactjs-tech-doc/blob/master/docs/reactjs-course-tutorials/namaste-reactjs-course/readerDoc/E1-Inception/Assignment%2001%20-%20Inception.pdf)
 
+## Inception key points
+
+- Add React & ReactDOM into simple html page
+- Simple Hello world React apps
+- Why reactjs is required ?
+- React.createElement(), what it returns ?
+- ReactDOM.createRoot()
+
 ## Assignment 01 - Q & A
 
 1. what is the diffference between library & framework in frontend UI?
@@ -74,9 +82,17 @@ View Answer
 4. What is crossorigin in script tag ?
 
 5. To add react into any web apps, we need 2 js library, `react & react dom`, why its 2 different library?
+
    - `https://unpkg.com/react@18/umd/react.development.js` - its core of react js library
    - `https://unpkg.com/react-dom@18/umd/react-dom.development.js` - its react dom library, where act a bridge between react & actual browser, useful for dom operations
 
+6. What is the most expensive things / costly operations /time consuming in web apps or frontend apps ?
+
+   - DOM tree manipulation
+
+7. What is React Elements, which returns from React.createElement() ?
+   - normal js object, which has type & props
+
 ---
 
-## Stopped at 32min
+## Stopped at 1hr 5min

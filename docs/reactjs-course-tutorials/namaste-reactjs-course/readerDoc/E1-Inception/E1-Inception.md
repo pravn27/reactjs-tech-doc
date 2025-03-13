@@ -16,6 +16,9 @@ sidebar_position: 1
 - Why reactjs is required ?
 - React.createElement(), what it returns ?
 - ReactDOM.createRoot()
+- Too complex HTML structure building with React core React.createElement() & its nested elements is very tedious jobs to developers, so we use JSX to make it easy to build complex HTML structure, developer friendly
+- Need of JSX
+- React can also be used only with some portion of html page like sections, footer. It is not mandatory to use reactjs in whole html page
 
 ## Assignment 01 - Q & A
 

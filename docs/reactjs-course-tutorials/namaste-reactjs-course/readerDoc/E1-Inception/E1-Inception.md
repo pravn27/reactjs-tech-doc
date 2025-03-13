@@ -20,7 +20,7 @@ sidebar_position: 1
 - Need of JSX
 - React can also be used only with some portion of html page like sections, footer. It is not mandatory to use reactjs in whole html page
 
-## Assignment 01 - Q & A
+## Assignments - Q & A
 
 1. what is the diffference between library & framework in frontend UI?
 <details>
@@ -99,7 +99,3 @@ View Answer
 
 7. What is React Elements, which returns from React.createElement() ?
    - normal js object, which has type & props
-
----
-
-**Stopped at 1hr 5min**

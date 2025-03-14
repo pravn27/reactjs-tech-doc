@@ -4,12 +4,12 @@ sidebar_position: 1
 
 # E2 - Igniting Our App
 
-> In this introductory episode.
+> In this episode, we ignite our React app development journey. We dive into the fundamentals, exploring React components, JSX, and the key concepts that power React. It's the essential foundation for creating dynamic and interactive user interfaces.
 
-- [E1-Inception Notes](https://github.com/pravn27/reactjs-tech-doc/blob/master/docs/reactjs-course-tutorials/namaste-reactjs-course/readerDoc/E1-Inception/E1-Inception.pdf)
-- [Assignment 01 - Inception](https://github.com/pravn27/reactjs-tech-doc/blob/master/docs/reactjs-course-tutorials/namaste-reactjs-course/readerDoc/E1-Inception/Assignment%2001%20-%20Inception.pdf)
+- [E2-Igniting Notes](https://github.com/pravn27/reactjs-tech-doc/blob/master/docs/reactjs-course-tutorials/namaste-reactjs-course/readerDoc/E2-Igniting-Our-App/E2-Igniting-Our-App.pdf)
+- [Assignment - Igniting ](https://github.com/pravn27/reactjs-tech-doc/blob/master/docs/reactjs-course-tutorials/namaste-reactjs-course/readerDoc/E2-Igniting-Our-App/Assignment-Igniting.pdf)
 
-## Inception key points
+## Igniting key points
 
 - test
 
@@ -19,4 +19,4 @@ sidebar_position: 1
 
 ---
 
-**Stopped at 0min**
+**Stopped at 9min**

@@ -157,10 +157,20 @@ sidebar_position: 1
   - ✅ Use **`npm`** when you need to **install** a package for reuse.
   - ✅ Use **`npx`** when you want to **run a one-time command** without installing.
 
-- sadasd
-- sdsa
-- sdsada
-- asdasds
+- [Parcel build tool](https://parceljs.org/), go through documentation & its features
+
+- Why reactjs is so fast ?
+
+  - Not only from ReactJS, its combining with build tool like parcel features, webpack, other best practices, dev experience, etc.
+
+- Commit to GitHub only the essential codebase. Avoid pushing automatically generated files, such as the `dist/` or `build/` folder, derived from the core codebase. Use gitignore to ignore these files.
+
+- How to do config browsers compatibility with specific versions of browsers ?
+  - browserslist config in package.json
+  - https://www.npmjs.com/package/browserslist
+  - https://github.com/browserslist/browserslist#readme
+  - App supports on last 3 latest versions of all the browsers
+    - https://browserslist.dev/?q=bGFzdCAzIHZlcnNpb24%3D
 
 ## Assignments - Q & A
 
@@ -168,4 +178,4 @@ sidebar_position: 1
 
 ---
 
-**Stopped at 1hr 10min**
+**Stopped at 1hr 53min**

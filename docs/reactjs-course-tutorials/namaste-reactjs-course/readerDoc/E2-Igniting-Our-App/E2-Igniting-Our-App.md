@@ -9,7 +9,7 @@ sidebar_position: 1
 - [E2-Igniting Notes](https://github.com/pravn27/reactjs-tech-doc/blob/master/docs/reactjs-course-tutorials/namaste-reactjs-course/readerDoc/E2-Igniting-Our-App/E2-Igniting-Our-App.pdf)
 - [Assignment - Igniting ](https://github.com/pravn27/reactjs-tech-doc/blob/master/docs/reactjs-course-tutorials/namaste-reactjs-course/readerDoc/E2-Igniting-Our-App/Assignment-Igniting.pdf)
 
-## Igniting key points
+## key points
 
 - Before going to production ready code, there a lots of process should be take care like bundling, minification, compression, etc.
   - bundler using
@@ -175,7 +175,3 @@ sidebar_position: 1
 ## Assignments - Q & A
 
 1.
-
----
-
-**Stopped at 1hr 53min**

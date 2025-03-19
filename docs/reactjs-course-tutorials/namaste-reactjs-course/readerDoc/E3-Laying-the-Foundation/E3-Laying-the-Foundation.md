@@ -6,21 +6,24 @@ sidebar_position: 1
 
 > Building on the basics, we lay a solid foundation for our React app. You'll learn about component hierarchies, how to pass data with props, and manage component state. These core concepts are the building blocks of every React project.
 
-- [E2-Igniting Notes](https://github.com/pravn27/reactjs-tech-doc/blob/master/docs/reactjs-course-tutorials/namaste-reactjs-course/readerDoc/E2-Igniting-Our-App/E2-Igniting-Our-App.pdf)
-- [Assignment - Igniting ](https://github.com/pravn27/reactjs-tech-doc/blob/master/docs/reactjs-course-tutorials/namaste-reactjs-course/readerDoc/E2-Igniting-Our-App/Assignment-Igniting.pdf)
+- [Laying the Foundation Notes](https://github.com/pravn27/reactjs-tech-doc/blob/master/docs/reactjs-course-tutorials/namaste-reactjs-course/readerDoc/E3-Laying-the-Foundation/E3-Foundation.pdf)
+- [Assignment - Laying the Foundation ](https://github.com/pravn27/reactjs-tech-doc/blob/master/docs/reactjs-course-tutorials/namaste-reactjs-course/readerDoc/E3-Laying-the-Foundation/Assignment-Foundation.pdf)
 
 ## key points
 
-- asa
-- sdas
+- Add script in package.json to run in dev, prod env build & serve
+- React Elements v/s DOM Elements
+  - React Elements similar like DOM Elements
+  - React Elements are just JS Objects, light weight when we rendered into actual DOM becomes HTML elements
 - sadas
 - asdasd
 
 ## Assignments - Q & A
 
-1.sada
-2.asda
+    1.sada
+
+    2.asda
 
 ---
 
-**Stopped at 0min**
+**Stopped at 18min**

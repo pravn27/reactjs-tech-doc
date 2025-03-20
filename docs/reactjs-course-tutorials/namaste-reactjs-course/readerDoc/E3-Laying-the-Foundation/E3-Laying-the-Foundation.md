@@ -15,8 +15,11 @@ sidebar_position: 1
 - React Elements v/s DOM Elements
   - React Elements similar like DOM Elements
   - React Elements are just JS Objects, light weight when we rendered into actual DOM becomes HTML elements
-- sadas
-- asdasd
+- **JSX**
+  - JSX is just syntactic sugar for React.createElement, not developer friendly to use React.createElement to build apps, instead of that using JSX
+  - JSX - Javascript XML (combine html & js together)
+  - JSX is not HTML inside JS
+  - JSX is HTML like or XML like syntax
 
 ## Assignments - Q & A
 
@@ -26,4 +29,4 @@ sidebar_position: 1
 
 ---
 
-**Stopped at 18min**
+**Stopped at 45min**

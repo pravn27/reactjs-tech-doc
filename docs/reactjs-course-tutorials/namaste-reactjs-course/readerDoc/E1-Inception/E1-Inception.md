@@ -9,6 +9,11 @@ sidebar_position: 1
 - [E1-Inception Notes](https://github.com/pravn27/reactjs-tech-doc/blob/master/docs/reactjs-course-tutorials/namaste-reactjs-course/readerDoc/E1-Inception/E1-Inception.pdf)
 - [Assignments - Inception](https://github.com/pravn27/reactjs-tech-doc/blob/master/docs/reactjs-course-tutorials/namaste-reactjs-course/readerDoc/E1-Inception/Assignment-Inception.pdf)
 
+## Reference links from pdf notes & assignments
+
+- [Link to my Code](https://bitbucket.org/namastedev/namaste-react-live/src/master/)
+- [async vs defer attributes in Javascript](https://www.youtube.com/watch?v=IrHmpdORLu8&ab_channel=AkshaySaini)
+
 ## key points
 
 - Add React & ReactDOM into simple html page

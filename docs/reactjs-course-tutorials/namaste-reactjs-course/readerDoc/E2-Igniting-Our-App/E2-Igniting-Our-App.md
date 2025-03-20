@@ -9,6 +9,13 @@ sidebar_position: 1
 - [E2-Igniting Notes](https://github.com/pravn27/reactjs-tech-doc/blob/master/docs/reactjs-course-tutorials/namaste-reactjs-course/readerDoc/E2-Igniting-Our-App/E2-Igniting-Our-App.pdf)
 - [Assignment - Igniting ](https://github.com/pravn27/reactjs-tech-doc/blob/master/docs/reactjs-course-tutorials/namaste-reactjs-course/readerDoc/E2-Igniting-Our-App/Assignment-Igniting.pdf)
 
+## Reference links from pdf notes & assignments
+
+- [Creating your own create-react-app](https://medium.com/@JedaiSaboteur/creating-a-react-app-from-scratch-f3c693b84658)
+- [Parcel documentation](https://parceljs.org/getting-started/webapp/)
+- [Parcel on Production](https://parceljs.org/features/production/)
+- [Browsers list](https://browserslist.dev/?q=bGFzdCAyIHZlcnNpb25z)
+
 ## key points
 
 - Before going to production ready code, there a lots of process should be take care like bundling, minification, compression, etc.

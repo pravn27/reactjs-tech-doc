@@ -9,6 +9,10 @@ sidebar_position: 1
 - [Laying the Foundation Notes](https://github.com/pravn27/reactjs-tech-doc/blob/master/docs/reactjs-course-tutorials/namaste-reactjs-course/readerDoc/E3-Laying-the-Foundation/E3-Foundation.pdf)
 - [Assignment - Laying the Foundation ](https://github.com/pravn27/reactjs-tech-doc/blob/master/docs/reactjs-course-tutorials/namaste-reactjs-course/readerDoc/E3-Laying-the-Foundation/Assignment-Foundation.pdf)
 
+## Reference links from pdf notes & assignments
+
+- test
+
 ## key points
 
 - Add script in package.json to run in dev, prod env build & serve

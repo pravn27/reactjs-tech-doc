@@ -24,6 +24,8 @@ sidebar_position: 1
   - JSX - Javascript XML (combine html & js together)
   - JSX is not HTML inside JS
   - JSX is HTML like or XML like syntax
+- Babel is JS compiler, used to convert JSX into JS
+  - Explore more on [Babel](https://babeljs.io/)
 
 ## Assignments - Q & A
 
@@ -33,4 +35,4 @@ sidebar_position: 1
 
 ---
 
-**Stopped at 45min**
+**Stopped at 55min**

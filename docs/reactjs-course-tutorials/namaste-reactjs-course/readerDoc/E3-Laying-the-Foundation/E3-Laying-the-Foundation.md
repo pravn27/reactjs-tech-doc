@@ -26,6 +26,11 @@ sidebar_position: 1
   - JSX is HTML like or XML like syntax
 - Babel is JS compiler, used to convert JSX into JS
   - Explore more on [Babel](https://babeljs.io/)
+- React Components
+  - Functional Components - JS function which returns JSX / React elements to render
+- Every React component name starts with capital letter
+- Component composition
+- what ever inside `{ }` jsx will sanitized by jsx before render into actual DOM
 
 ## Assignments - Q & A
 
@@ -35,4 +40,4 @@ sidebar_position: 1
 
 ---
 
-**Stopped at 55min**
+**Stopped at 1hr 44min**

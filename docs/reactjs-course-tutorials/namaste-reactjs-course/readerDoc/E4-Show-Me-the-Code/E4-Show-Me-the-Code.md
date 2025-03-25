@@ -17,6 +17,9 @@ sidebar_position: 4
 
 - **Planning** - Before building any real time web apps from scratch, planning is very important about How to build ? What to build ? Why to build ? and how to build it in a better way.
   - Never start blindly writing code without any planning. It's like building a house without any plan. It's not possible.
+  - High level planning what to build, kind of prototyping, and then start writing code.
+- HLD (High level design of Food App)
+  - ![alt text](../images/foodAppWireframe.png)
 
 ## Assignments - Q & A
 

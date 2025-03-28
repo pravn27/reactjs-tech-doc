@@ -19,7 +19,11 @@ sidebar_position: 4
   - Never start blindly writing code without any planning. It's like building a house without any plan. It's not possible.
   - High level planning what to build, kind of prototyping, and then start writing code.
 - HLD (High level design of Food App)
+
   - ![alt text](../images/foodAppWireframe.png)
+
+- React Props
+- Config driven UI
 
 ## Assignments - Q & A
 
@@ -29,4 +33,4 @@ sidebar_position: 4
 
 ---
 
-**Stopped at 55 min**
+**Stopped at 1hr 10 min**

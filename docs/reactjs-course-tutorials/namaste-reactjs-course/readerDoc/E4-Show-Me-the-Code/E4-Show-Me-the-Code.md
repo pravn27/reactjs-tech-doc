@@ -23,7 +23,13 @@ sidebar_position: 4
   - ![alt text](../images/foodAppWireframe.png)
 
 - React Props
-- Config driven UI
+- **What is Config driven UI** ?
+
+  - A Config-Driven UI (Configuration-Driven UI) is an approach where the user interface (UI) is not hardcoded but is generated dynamically based on a configuration file. This configuration is usually in JSON or YAML format and defines what elements (buttons, text fields, checkboxes, etc.) should appear on the screen. Instead of writing separate UI code for each screen, we use a generic renderer that reads the config and builds the UI dynamically. Controlling the UI based on configuration files is a very powerful approach and is used by many companies like Swiggy, Uber, etc.
+    - Example: Swiggy uses this approach to build their UI. They have a config file for each screen and based on that config file they build the UI. According to end users location, they can change the config file and the UI will change accordingly.
+
+- test
+- test
 
 ## Assignments - Q & A
 
@@ -33,4 +39,4 @@ sidebar_position: 4
 
 ---
 
-**Stopped at 1hr 10 min**
+**Stopped at 1hr 47 min**

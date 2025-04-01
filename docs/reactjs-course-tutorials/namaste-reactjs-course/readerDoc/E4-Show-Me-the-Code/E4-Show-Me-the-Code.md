@@ -28,8 +28,12 @@ sidebar_position: 4
   - A Config-Driven UI (Configuration-Driven UI) is an approach where the user interface (UI) is not hardcoded but is generated dynamically based on a configuration file. This configuration is usually in JSON or YAML format and defines what elements (buttons, text fields, checkboxes, etc.) should appear on the screen. Instead of writing separate UI code for each screen, we use a generic renderer that reads the config and builds the UI dynamically. Controlling the UI based on configuration files is a very powerful approach and is used by many companies like Swiggy, Uber, etc.
     - Example: Swiggy uses this approach to build their UI. They have a config file for each screen and based on that config file they build the UI. According to end users location, they can change the config file and the UI will change accordingly.
 
-- test
-- test
+- Why we need react keys in looping list of items?
+  - Keys help React identify which items have changed, are added, or are removed. Keys should be given to the elements inside the array to give the elements a stable identity.
+  - **Never use index as key in map, not recommended**
+  - https://react.dev/learn/rendering-lists
+  - https://legacy.reactjs.org/docs/reconciliation.html#recursing-on-children
+  - https://robinpokorny.com/blog/index-as-a-key-is-an-anti-pattern/
 
 ## Assignments - Q & A
 
@@ -39,4 +43,4 @@ sidebar_position: 4
 
 ---
 
-**Stopped at 1hr 47 min**
+**Stopped at 1hr 55 min**

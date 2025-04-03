@@ -11,7 +11,11 @@ sidebar_position: 3
 
 ## Reference links from pdf notes & assignments
 
-- test
+- https://babeljs.io/
+- https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script#attr-type
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules
+- https://babeljs.io/repl#
+- https://legacy.reactjs.org/docs/react-without-jsx.html
 
 ## key points
 

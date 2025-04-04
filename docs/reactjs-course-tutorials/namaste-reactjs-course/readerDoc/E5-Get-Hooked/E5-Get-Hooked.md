@@ -15,7 +15,10 @@ sidebar_position: 5
 
 ## key points
 
-- sda
+- ReactJS projects file & folder structure
+  - https://www.robinwieruch.de/react-folder-structure/
+  - https://dev.to/itswillt/folder-structures-in-react-projects-3dp8
+  - https://legacy.reactjs.org/docs/faq-structure.html
 - test
 
 ## Assignments - Q & A
@@ -26,4 +29,4 @@ sidebar_position: 5
 
 ---
 
-**Stopped at 1hr 55 min**
+**Stopped at 18 min**

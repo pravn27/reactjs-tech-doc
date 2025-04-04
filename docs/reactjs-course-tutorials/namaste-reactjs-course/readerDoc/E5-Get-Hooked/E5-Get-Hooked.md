@@ -19,6 +19,7 @@ sidebar_position: 5
   - https://www.robinwieruch.de/react-folder-structure/
   - https://dev.to/itswillt/folder-structures-in-react-projects-3dp8
   - https://legacy.reactjs.org/docs/faq-structure.html
+- Never keep any hardcoded data / mock data inside your react components, keep it separately in a file and import it wherever required
 - test
 
 ## Assignments - Q & A
@@ -29,4 +30,4 @@ sidebar_position: 5
 
 ---
 
-**Stopped at 18 min**
+**Stopped at 30 min**

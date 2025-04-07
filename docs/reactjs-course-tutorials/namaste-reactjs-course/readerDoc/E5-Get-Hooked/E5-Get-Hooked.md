@@ -11,7 +11,8 @@ sidebar_position: 5
 
 ## Reference links from pdf notes & assignments
 
-- test
+- React Fiber architecture repository: https://github.com/acdlite/react-fiber-architecture
+- Code Link - https://bitbucket.org/namastedev/namaste-react-live/src/master/
 
 ## key points
 
@@ -20,7 +21,8 @@ sidebar_position: 5
   - https://dev.to/itswillt/folder-structures-in-react-projects-3dp8
   - https://legacy.reactjs.org/docs/faq-structure.html
 - Never keep any hardcoded data / mock data inside your react components, keep it separately in a file and import it wherever required
-- test
+- import & export in react
+-
 
 ## Assignments - Q & A
 
@@ -30,4 +32,4 @@ sidebar_position: 5
 
 ---
 
-**Stopped at 30 min**
+**Stopped at 50 min**

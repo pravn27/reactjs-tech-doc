@@ -22,7 +22,7 @@ sidebar_position: 5
   - https://legacy.reactjs.org/docs/faq-structure.html
 - Never keep any hardcoded data / mock data inside your react components, keep it separately in a file and import it wherever required
 - import & export in react
--
+- Event handlers in react
 
 ## Assignments - Q & A
 
@@ -32,4 +32,4 @@ sidebar_position: 5
 
 ---
 
-**Stopped at 50 min**
+**Stopped at 1hr 0min**

@@ -25,6 +25,10 @@ sidebar_position: 5
 - Event handlers in react
 - React is fast in DOM manipulation because it uses virtual DOM
 - ReactJS - (data of application) Data layer & UI layer consistent, works together, properly in sync & render the UI according to Data layer changes in efficient way
+- React Hooks are normal JS functions, but they have some special features
+- When ever react state variables changes / updates / modify, react will rerenders the component again
+- React always keep sync with Data layer & UI layer, so whenever (react states) data changes, react will rerender the component again
+- Why react is so fast, because of super fast in DOM operations & renders the UI in very efficient way
 
 ## Assignments - Q & A
 
@@ -34,4 +38,4 @@ sidebar_position: 5
 
 ---
 
-**Stopped at 1hr 14min**
+**Stopped at 1hr 45min**

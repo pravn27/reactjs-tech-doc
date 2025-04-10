@@ -23,6 +23,8 @@ sidebar_position: 5
 - Never keep any hardcoded data / mock data inside your react components, keep it separately in a file and import it wherever required
 - import & export in react
 - Event handlers in react
+- React is fast in DOM manipulation because it uses virtual DOM
+- ReactJS - (data of application) Data layer & UI layer consistent, works together, properly in sync & render the UI according to Data layer changes in efficient way
 
 ## Assignments - Q & A
 
@@ -32,4 +34,4 @@ sidebar_position: 5
 
 ---
 
-**Stopped at 1hr 0min**
+**Stopped at 1hr 14min**

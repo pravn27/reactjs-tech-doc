@@ -29,6 +29,47 @@ sidebar_position: 5
 - When ever react state variables changes / updates / modify, react will rerenders the component again
 - React always keep sync with Data layer & UI layer, so whenever (react states) data changes, react will rerender the component again
 - Why react is so fast, because of super fast in DOM operations & renders the UI in very efficient way
+- **Virtual DOM**
+
+  - In React, the Virtual DOM is a lightweight, in-memory representation of the real DOM that React uses to efficiently update the UI, minimizing unnecessary re-renders and improving performance
+
+  - Virtual DOM vs Real DOM in React.js
+
+    - What is the Virtual DOM?
+      - The Virtual DOM (V-DOM) is a lightweight JavaScript representation of the Real DOM used in web browsers. It allows React to perform efficient updates to the user interface by first computing what changes are necessary and then updating only those parts of the actual DOM.
+
+  - **How it Works in React**
+    1. When a component’s state or props change, React creates a new Virtual DOM tree.
+    2. React compares it with the previous Virtual DOM using a "diffing" algorithm.
+    3. It calculates the minimum number of operations needed to update the Real DOM.
+    4. Only those specific parts of the Real DOM are updated, making the process faster and more efficient.
+  - https://www.freecodecamp.org/news/what-is-the-virtual-dom-in-react/
+  - https://refine.dev/blog/react-virtual-dom/#ignoring-performance-tools
+
+- **Virtual DOM vs Real DOM**
+
+      | Feature      | Virtual DOM                       | Real DOM                         |
+      | ------------ | --------------------------------- | -------------------------------- |
+      | Type         | JavaScript Object                 | Browser-provided Document Object |
+      | Update Speed | Fast (batch updates)              | Slow (direct manipulation)       |
+      | Efficiency   | Efficient diff and patch          | Inefficient full re-rendering    |
+      | Re-rendering | Updates only what is necessary    | Re-renders entire sections       |
+      | Used By      | React, Vue, and other modern libs | Core of browser rendering        |
+
+  - Summary
+
+    - The Virtual DOM improves performance by minimizing direct manipulation of the Real DOM. React uses it to determine the most efficient way to update the UI without unnecessary re-renders.
+
+- **Reconciliation algorithm** - also known as **React Fiber**
+
+  - React's reconciliation algorithm, also known as the diffing algorithm, efficiently updates the DOM by comparing a new virtual DOM with the previous one, identifying changes, and applying only the necessary updates to the real DOM
+  - The React Reconciliation Algorithm is how React efficiently updates the DOM to reflect changes in state or props. At a high level, it compares the previous virtual DOM with the new one, identifies the differences (called "diffing"), and then updates only the changed parts of the real DOM. This process ensures that the UI stays in sync with the data layer, providing a smooth and responsive user experience.
+  - The React Reconciliation Algorithm is the process React uses to efficiently update the DOM when the state or props of a component change.
+  - Whenever something changes in your React app (like a button click or API response), React needs to figure out what changed in the UI and update only those parts. The process of figuring this out is called reconciliation.
+
+    ![alt text](../images/React-Reconciliation.png)
+
+  - https://legacy.reactjs.org/docs/reconciliation.html
 
 ## Assignments - Q & A
 

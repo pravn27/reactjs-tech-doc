@@ -29,9 +29,13 @@ sidebar_position: 5
 - When ever react state variables changes / updates / modify, react will rerenders the component again
 - React always keep sync with Data layer & UI layer, so whenever (react states) data changes, react will rerender the component again
 - Why react is so fast, because of super fast in DOM operations & renders the UI in very efficient way
+
 - **Virtual DOM**
 
+  - Virtual DOM is representation of actual / real DOM, and its in the form of normal JS Objects (compiled React Elements)
   - In React, the Virtual DOM is a lightweight, in-memory representation of the real DOM that React uses to efficiently update the UI, minimizing unnecessary re-renders and improving performance
+
+  ![alt text](../images/virtualDom.png)
 
   - Virtual DOM vs Real DOM in React.js
 
@@ -66,10 +70,21 @@ sidebar_position: 5
   - The React Reconciliation Algorithm is how React efficiently updates the DOM to reflect changes in state or props. At a high level, it compares the previous virtual DOM with the new one, identifies the differences (called "diffing"), and then updates only the changed parts of the real DOM. This process ensures that the UI stays in sync with the data layer, providing a smooth and responsive user experience.
   - The React Reconciliation Algorithm is the process React uses to efficiently update the DOM when the state or props of a component change.
   - Whenever something changes in your React app (like a button click or API response), React needs to figure out what changed in the UI and update only those parts. The process of figuring this out is called reconciliation.
+  - **Key observation** - Finding out difference between real DOM html nodes is expensive operation. And finding out difference between 2 virtual DOM / JS Objects is faster / cheap operation.
+
+  - What is Diff Algorithm?
+
+    - Find out differences between two virtual DOM trees which is old vs new virtual DOM tree.
+    - The diffing algorithm is a core part of React's virtual DOM. It compares the previous virtual DOM tree with the new one and identifies the differences between them. The algorithm then updates only the parts of the real DOM that have changed, rather than re-rendering the entire tree. This process is known as reconciliation and helps improve the performance of React applications.
+
+    ![alt text](../images/diffAlgo.png)
+
+    ***
 
     ![alt text](../images/React-Reconciliation.png)
 
   - https://legacy.reactjs.org/docs/reconciliation.html
+  - https://github.com/acdlite/react-fiber-architecture
 
 ## Assignments - Q & A
 
@@ -79,4 +94,4 @@ sidebar_position: 5
 
 ---
 
-**Stopped at 1hr 45min**
+**Stopped at completed**

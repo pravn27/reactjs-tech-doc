@@ -6,8 +6,8 @@ sidebar_position: 6
 
 > Navigation is essential, and in this episode, we delve into React routing. You'll learn how to navigate seamlessly within your app, creating a smooth and user-friendly experience.
 
-- [Explore the World Notes](test)
-- [Assignments - Explore the World](test)
+- [Explore the World Notes](https://github.com/pravn27/reactjs-tech-doc/blob/master/docs/reactjs-course-tutorials/namaste-reactjs-course/readerDoc/E6-Explore-the-World/E6-Explore-the-World.pdf)
+- [Assignments - Explore the World](https://github.com/pravn27/reactjs-tech-doc/blob/master/docs/reactjs-course-tutorials/namaste-reactjs-course/readerDoc/E6-Explore-the-World/Assignments-ExploreWorld.pdf)
 
 ## Reference links from pdf notes & assignments
 

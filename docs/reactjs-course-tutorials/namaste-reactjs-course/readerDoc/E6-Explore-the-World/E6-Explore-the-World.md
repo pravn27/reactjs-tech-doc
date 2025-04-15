@@ -11,8 +11,8 @@ sidebar_position: 6
 
 ## Reference links from pdf notes & assignments
 
-- React Fiber architecture repository: https://github.com/acdlite/react-fiber-architecture
-- Code Link - https://bitbucket.org/namastedev/namaste-react-live/src/master/
+- test
+- test
 
 ## key points
 

@@ -19,9 +19,21 @@ sidebar_position: 6
 - **Monolithic architecture vs Microservices architecture**
 
   - **Monolithic architecture**: A single, unified application that contains all the necessary components and services. It is easier to develop and maintain, but can become difficult to scale and update.
-    Example: A single web application that handles all the functionality, such as user authentication, data storage, and API calls.
+    Example: A single web application that handles all the functionality, such as UI layers, user authentication, Backend services, data storage, and API calls, DB connections, Email Services, etc.
   - **Microservices architecture**: A distributed system that consists of multiple smaller, independent services that work together to provide a complete application. Each service is responsible for a specific functionality and can be developed, deployed, and scaled independently.
     Example: A web application that consists of multiple microservices, such as a user authentication service, a data storage service, and an API service.
+
+    - How do they talk / communicate each of the micro services? Lets say UI wants talk with Backend services, auth services, data storage services, etc.
+      - REST APIs
+      - GraphQL
+      - gRPC
+      - Message Queue
+      - Event Bus
+      - etc.
+
+    ![alt text](../images/MonolithicVSMicroService.png)
+
+---
 
     ![alt text](../images/Monolithic-vs-Microservices%20.png)
 
@@ -36,4 +48,4 @@ sidebar_position: 6
 
 ---
 
-**Stopped at 0 min**
+**Stopped at 20 min**

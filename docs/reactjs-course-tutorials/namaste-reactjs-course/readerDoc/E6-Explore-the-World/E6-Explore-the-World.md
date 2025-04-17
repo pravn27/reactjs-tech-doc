@@ -37,8 +37,9 @@ sidebar_position: 6
 
     ![alt text](../images/Monolithic-vs-Microservices%20.png)
 
-- test
-- test
+- useEffect react hook
+- CORS policy security features
+  - How to bypass CORS policy from localhost ? use CORS browser extension
 
 ## Assignments - Q & A
 
@@ -48,4 +49,4 @@ sidebar_position: 6
 
 ---
 
-**Stopped at 20 min**
+**Stopped at 40 min**

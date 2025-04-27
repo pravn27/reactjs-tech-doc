@@ -40,7 +40,7 @@ sidebar_position: 6
 - useEffect react hook
 - CORS policy security features
   - How to bypass CORS policy from localhost ? use CORS browser extension
-- What are the best way of UX while requesting API services ?
+- **What are the best way of UX while requesting API services ?**
   - **(Latest) Recommend to use for better UX - Shimmer UI / Fake UI / Skeleton loader**
   - Not recommended - use Loader text / loader images / loading indicator
 
@@ -52,4 +52,4 @@ sidebar_position: 6
 
 ---
 
-**Stopped at 55 min**
+**Stopped at 1hr 17min**

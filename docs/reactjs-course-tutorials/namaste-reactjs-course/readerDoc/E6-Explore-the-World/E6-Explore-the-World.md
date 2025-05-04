@@ -43,7 +43,9 @@ sidebar_position: 6
 - **What are the best way of UX while requesting API services ?**
   - **(Latest) Recommend to use for better UX - Shimmer UI / Fake UI / Skeleton loader**
   - Not recommended - use Loader text / loader images / loading indicator
-- Whenever state updated, whole component will rerender again
+- **Whenever state updated, whole component will rerender again**
+  - **Whenever state variables updates, react triggers a Reconciliation cycle (rerender the component)**
+- React is very very efficient in DOM manipulation with Reconciliation cycle
 
 ## Assignments - Q & A
 
@@ -53,4 +55,4 @@ sidebar_position: 6
 
 ---
 
-**Stopped at 1hr 37min**
+**Stopped at 1hr 51min**

@@ -91,7 +91,3 @@ sidebar_position: 5
     1.sada
 
     2.asda
-
----
-
-**Stopped at completed**

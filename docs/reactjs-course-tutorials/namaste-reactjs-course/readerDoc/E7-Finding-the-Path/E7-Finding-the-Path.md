@@ -16,8 +16,35 @@ sidebar_position: 7
 
 ## key points
 
-- test
-- test
+- useEffect life cycle with dependency array
+  - If no dependency array is passed, it will run on every render of the component:
+    ```javascript
+    useEffect(() => {
+      console.log("useEffect triggered from Header component");
+    });
+    ```
+  - if empty dependency array is passed as dependency array, it will **run only once** when the component mounts initially
+    ```javascript
+    useEffect(() => {
+      console.log("useEffect triggered from Header component");
+    }, []);
+    ```
+  - if array with dependencies is passed, it will run **when the component mounts and when the dependencies change/updated**
+    ```javascript
+    useEffect(() => {
+      console.log("useEffect triggered from Header component");
+    }, [dataList]);
+    ```
+- useState
+
+  - Never use useState outside of your components, will get error
+  - Almost keep useState at begin / top of components
+  - Never create useState react variables inside any conditional statements like if else, for loops, inside functions
+    ```javascript
+    if(){
+        const [searchValue, setSearchValue] = useState("");
+    }
+    ```
 
 ## Assignments - Q & A
 
@@ -27,4 +54,4 @@ sidebar_position: 7
 
 ---
 
-- **Stopped at 0min**
+- **Stopped at 15min**

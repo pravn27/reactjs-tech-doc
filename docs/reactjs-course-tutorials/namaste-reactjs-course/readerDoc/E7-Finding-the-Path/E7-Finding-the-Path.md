@@ -46,6 +46,9 @@ sidebar_position: 7
     }
     ```
 
+- How to use router / navigation to other pages in react apps ?
+  - use react-router-dom lib, https://reactrouter.com/home
+
 ## Assignments - Q & A
 
     1.sada
@@ -54,4 +57,4 @@ sidebar_position: 7
 
 ---
 
-- **Stopped at 15min**
+- **Stopped at 31min**

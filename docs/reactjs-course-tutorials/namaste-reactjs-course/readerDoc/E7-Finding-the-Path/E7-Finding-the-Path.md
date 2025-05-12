@@ -48,6 +48,7 @@ sidebar_position: 7
 
 - How to use router / navigation to other pages in react apps ?
   - use react-router-dom lib, https://reactrouter.com/home
+- Never use anchor tag inside react apps
 
 ## Assignments - Q & A
 
@@ -57,4 +58,4 @@ sidebar_position: 7
 
 ---
 
-- **Stopped at 31min**
+- **Stopped at 1hr 3min**

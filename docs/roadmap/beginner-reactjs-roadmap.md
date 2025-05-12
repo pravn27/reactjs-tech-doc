@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Beginner - Core Fundamentals
 
-> This phase introduces the fundamental building blocks of React.
+> Introduces the fundamental building blocks of React.
 
 ## 1. Introduction to React
 
@@ -103,7 +103,7 @@ sidebar_position: 1
 
 - Installation and Setup
 - Route Configuration
-- Navigation
+- Navigating between pages
 - Route Parameters
 - Nested Routes
 - Protected Routes
@@ -113,7 +113,7 @@ sidebar_position: 1
 - CSS in React
   - Inline Styles
   - CSS Modules
-  - Styled Components
+  - Styled Components, Emotion
   - CSS-in-JS
 - Responsive Design
 - CSS Frameworks

@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Intermediate Roadmap - Application-Level Development
+# Intermediate - Application-Level Development
 
 ## 1. Advanced React Patterns
 

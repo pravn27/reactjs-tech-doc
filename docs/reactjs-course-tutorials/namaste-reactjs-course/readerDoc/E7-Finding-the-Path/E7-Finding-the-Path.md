@@ -49,6 +49,10 @@ sidebar_position: 7
 - How to use router / navigation to other pages in react apps ?
   - use react-router-dom lib, https://reactrouter.com/home
 - Never use anchor tag inside react apps
+- Routing in web apps - 2 types
+  - client side routing
+  - server side routing
+- Dynamic routing
 
 ## Assignments - Q & A
 

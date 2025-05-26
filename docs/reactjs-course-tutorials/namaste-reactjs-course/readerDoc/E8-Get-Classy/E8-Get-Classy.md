@@ -6,8 +6,8 @@ sidebar_position: 8
 
 > In this episode, we introduce class components, expanding your React toolkit. You'll discover a different approach to creating components and how class components complement your React development skills.
 
-- [Finding the Path Notes](https://github.com/pravn27/reactjs-tech-doc/blob/master/docs/reactjs-course-tutorials/namaste-reactjs-course/readerDoc/E7-Finding-the-Path/E7-Finding-the-Path.pdf)
-- [Assignments - Finding the Path](https://github.com/pravn27/reactjs-tech-doc/blob/master/docs/reactjs-course-tutorials/namaste-reactjs-course/readerDoc/E7-Finding-the-Path/Assignments-FindingThePath.pdf)
+- [Lets Get Classy Notes](https://github.com/pravn27/reactjs-tech-doc/blob/master/docs/reactjs-course-tutorials/namaste-reactjs-course/readerDoc/E8-Get-Classy/E8-lets-get-classy.pdf)
+- [Assignments - Lets Get Classy](https://github.com/pravn27/reactjs-tech-doc/blob/master/docs/reactjs-course-tutorials/namaste-reactjs-course/readerDoc/E8-Get-Classy/Assignments-LetsGetClassy.pdf)
 
 ## Reference links from pdf notes & assignments
 
@@ -15,6 +15,8 @@ sidebar_position: 8
 - test
 
 ## key points
+
+- Class based components
 
 ## Assignments - Q & A
 

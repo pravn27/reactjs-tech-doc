@@ -16,7 +16,10 @@ sidebar_position: 8
 
 ## key points
 
-- Class based components
+- What is Class based components ?
+  - Its Normal javascript class, which has render() method which returns JSX
+  - Why do we use super(props) in class based components inside constructor ?
+- Loading class based components into web page means, creating instance of the class, whenever instance of the class created, constructor method will call, so better to create state inside constructor
 
 ## Assignments - Q & A
 
@@ -26,4 +29,4 @@ sidebar_position: 8
 
 ---
 
-- **Stopped at 0min**
+- **Stopped at 40min**

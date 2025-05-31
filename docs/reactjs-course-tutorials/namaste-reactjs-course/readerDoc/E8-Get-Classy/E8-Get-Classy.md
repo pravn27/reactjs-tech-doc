@@ -20,6 +20,12 @@ sidebar_position: 8
   - Its Normal javascript class, which has render() method which returns JSX
   - Why do we use super(props) in class based components inside constructor ?
 - Loading class based components into web page means, creating instance of the class, whenever instance of the class created, constructor method will call, so better to create state inside constructor
+- Life cycle of react class based component
+- Loading the component means mounting the component into web page
+- While calling any API, why do we use it inside componentDidMount() ?
+  - Better UX experience
+  - First quickly render / mount the component into web page, then request for API calls & get the data & re render with API response data
+- React Lifecycle methods - https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/
 
 ## Assignments - Q & A
 
@@ -29,4 +35,4 @@ sidebar_position: 8
 
 ---
 
-- **Stopped at 40min**
+- **Stopped at 1hr 15min**

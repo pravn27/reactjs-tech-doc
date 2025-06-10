@@ -38,6 +38,10 @@ sidebar_position: 8
 
   ![alt text](../images/order-react-lifecyle.png)
 
+- **Never ever compare react class based life cycle methods in Functional Components with useEffect & other methods**
+
+- In functional component, useEffect is not used for componentDidMount() life cycle method
+
 ## Assignments - Q & A
 
     1.sada

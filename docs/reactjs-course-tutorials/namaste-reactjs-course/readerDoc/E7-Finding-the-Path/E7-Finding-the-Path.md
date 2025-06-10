@@ -17,22 +17,22 @@ sidebar_position: 7
 ## key points
 
 - useEffect life cycle with dependency array
-  - If no dependency array is passed, it will run on every render of the component:
+  - If No dependency array [] is passed, it will run on every render of the component:
     ```javascript
     useEffect(() => {
-      console.log("useEffect triggered from Header component");
+      console.log("it will run on every render of the component");
     });
     ```
   - if empty dependency array is passed as dependency array, it will **run only once** when the component mounts initially
     ```javascript
     useEffect(() => {
-      console.log("useEffect triggered from Header component");
+      console.log("it will run only once when the component mounts initially");
     }, []);
     ```
   - if array with dependencies is passed, it will run **when the component mounts and when the dependencies change/updated**
     ```javascript
     useEffect(() => {
-      console.log("useEffect triggered from Header component");
+      console.log("will run when dependencies array change/updated");
     }, [dataList]);
     ```
 - useState

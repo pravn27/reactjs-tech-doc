@@ -42,6 +42,30 @@ sidebar_position: 8
 
 - In functional component, useEffect is not used for componentDidMount() life cycle method
 
+- If any where used setInterval, any event listeners, make sure clear / closed those, once component removed / unmounted. Find below ref example
+
+  ```javascript
+  useEffect(() => {
+    // This effect runs once when the component mounts
+    console.log("Contact component mounted");
+
+    const timer = setInterval(() => {
+      console.log("This will run every 5 seconds");
+    }, 5000);
+
+    // Cleanup function runs when the component unmounts
+    // like componentWillUnmount
+    return () => {
+      // used for cleanup tasks
+      // e.g., clearing timers, canceling network requests, etc.
+      // This is a good place to clean up any subscriptions or event listeners
+      console.log("Contact component unmounted");
+      // Clear the interval to prevent memory leaks
+      clearInterval(timer);
+    };
+  }, []);
+  ```
+
 ## Assignments - Q & A
 
     1.sada

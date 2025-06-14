@@ -6,8 +6,8 @@ sidebar_position: 9
 
 > Performance matters, and in this episode, you'll explore optimization techniques. Discover how to make your app faster, more efficient, and provide a smoother user experience.
 
-- [Lets Get Classy Notes](https://github.com/pravn27/reactjs-tech-doc/blob/master/docs/reactjs-course-tutorials/namaste-reactjs-course/readerDoc/E8-Get-Classy/E8-lets-get-classy.pdf)
-- [Assignments - Lets Get Classy](https://github.com/pravn27/reactjs-tech-doc/blob/master/docs/reactjs-course-tutorials/namaste-reactjs-course/readerDoc/E8-Get-Classy/Assignments-LetsGetClassy.pdf)
+- [Optimizing our App Notes](https://github.com/pravn27/reactjs-tech-doc/blob/master/docs/reactjs-course-tutorials/namaste-reactjs-course/readerDoc/E9-Optimizing-our-App/E9-optimizing-our-app.pdf)
+- [Assignments - Optimizing our App](https://github.com/pravn27/reactjs-tech-doc/blob/master/docs/reactjs-course-tutorials/namaste-reactjs-course/readerDoc/E9-Optimizing-our-App/Assignments-OptimizingOurApp.pdf)
 
 ## Reference links from pdf notes & assignments
 

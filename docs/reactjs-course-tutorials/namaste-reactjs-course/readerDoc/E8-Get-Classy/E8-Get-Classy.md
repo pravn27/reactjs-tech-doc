@@ -2,7 +2,7 @@
 sidebar_position: 8
 ---
 
-# E7 - Let's Get Classy
+# E8 - Let's Get Classy
 
 > In this episode, we introduce class components, expanding your React toolkit. You'll discover a different approach to creating components and how class components complement your React development skills.
 
@@ -71,7 +71,3 @@ sidebar_position: 8
     1.sada
 
     2.asda
-
----
-
-- **Stopped at 1hr 43min**

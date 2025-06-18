@@ -23,7 +23,8 @@ sidebar_position: 9
   - **Reusability**: Components can be easily reused across different parts of your application.
   - **Maintainability**: Code is easier to update, refactor, and debug.
   - **Testability**: Smaller, focused components are simpler to test in isolation.
--
+- Hooks are normal javascript utility functions, we can create our own custom hooks as well by following Modular Design & SRP
+- Create a **Custom hooks**, where ever possible & follow Modular Design & SRP
 
 ## Assignments - Q & A
 
@@ -33,4 +34,4 @@ sidebar_position: 9
 
 ---
 
-**Stopped at 2min**
+**Stopped at 30min**

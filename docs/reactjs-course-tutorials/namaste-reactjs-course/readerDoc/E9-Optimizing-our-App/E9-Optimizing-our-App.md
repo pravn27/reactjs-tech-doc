@@ -25,6 +25,8 @@ sidebar_position: 9
   - **Testability**: Smaller, focused components are simpler to test in isolation.
 - Hooks are normal javascript utility functions, we can create our own custom hooks as well by following Modular Design & SRP
 - Create a **Custom hooks**, where ever possible & follow Modular Design & SRP
+- React recommends while creating custom hooks function utils, start with use like useOnlineStatus
+- Add ESlint rules of react best practices
 
 ## Assignments - Q & A
 
@@ -34,4 +36,4 @@ sidebar_position: 9
 
 ---
 
-**Stopped at 30min**
+**Stopped at 1hr 0min**

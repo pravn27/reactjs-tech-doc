@@ -27,6 +27,12 @@ sidebar_position: 9
 - Create a **Custom hooks**, where ever possible & follow Modular Design & SRP
 - React recommends while creating custom hooks function utils, start with use like useOnlineStatus
 - Add ESlint rules of react best practices
+- Web apps performance techniques
+  - **JavaScript Bundling**
+    - **Split large JavaScript bundles into multiple smaller bundles (code splitting). This allows the app to load only the necessary code for each page or feature, improving initial load times and overall performance**.
+  - **Chunking / Code splitting / Lazy loading / Dynamic bundling / On demand loading / Lazy loading / Dynamic import**
+  - **Logical chunking based on features**
+  - https://react.dev/reference/react/lazy
 
 ## Assignments - Q & A
 

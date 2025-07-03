@@ -2,7 +2,7 @@
 sidebar_position: 9
 ---
 
-# E9 Optimizing our App
+# E9 - Optimizing our App
 
 > Performance matters, and in this episode, you'll explore optimization techniques. Discover how to make your app faster, more efficient, and provide a smoother user experience.
 

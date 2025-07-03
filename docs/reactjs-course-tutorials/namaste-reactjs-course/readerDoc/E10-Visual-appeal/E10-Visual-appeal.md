@@ -16,7 +16,11 @@ sidebar_position: 10
 
 ## key points
 
-- sda
+- What are the ways to add CSS in React Apps ?
+  - Normal CSS files
+  - SASS, SCSS
+  - Styled components
+  - CSS Libraries, Frameworks (using Tailwind CSS)
 - sdas
 
 ## Assignments - Q & A
@@ -27,4 +31,4 @@ sidebar_position: 10
 
 ---
 
-**Stopped at min**
+**Stopped at 28min**

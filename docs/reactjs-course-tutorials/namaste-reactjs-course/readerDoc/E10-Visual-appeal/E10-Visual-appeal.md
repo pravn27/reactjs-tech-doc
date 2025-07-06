@@ -21,7 +21,8 @@ sidebar_position: 10
   - SASS, SCSS
   - Styled components
   - CSS Libraries, Frameworks (using Tailwind CSS)
-- sdas
+- How tailwind css works ?
+  - Everything with predefined Class Names, will not add / write conventional css
 
 ## Assignments - Q & A
 
@@ -31,4 +32,4 @@ sidebar_position: 10
 
 ---
 
-**Stopped at 28min**
+**Stopped at 42min**

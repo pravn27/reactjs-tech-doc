@@ -23,6 +23,12 @@ sidebar_position: 10
   - CSS Libraries, Frameworks (using Tailwind CSS)
 - How tailwind css works ?
   - Everything with predefined Class Names, will not add / write conventional css
+- Pros & Cons of Tailwind CSS
+  - Pros
+    - Make developer life easy while applying css with only class names
+    - Library is very light weight & in production ready bundle will use only necessary class names, so efficient while loading class names in browser
+  - Cons
+    - Since everything is styled using class names, readability can become difficult when components have very long or overloaded class name lists.
 
 ## Assignments - Q & A
 
@@ -32,4 +38,4 @@ sidebar_position: 10
 
 ---
 
-**Stopped at 42min**
+**Stopped at 1hr 15min**

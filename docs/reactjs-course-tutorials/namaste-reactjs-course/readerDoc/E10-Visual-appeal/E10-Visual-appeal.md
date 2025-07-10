@@ -35,7 +35,3 @@ sidebar_position: 10
     1.sada
 
     2.asda
-
----
-
-**Stopped at 1hr 15min**

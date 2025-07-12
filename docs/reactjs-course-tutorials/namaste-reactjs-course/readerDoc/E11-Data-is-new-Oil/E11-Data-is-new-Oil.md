@@ -17,12 +17,15 @@ sidebar_position: 11
 ## key points
 
 - How to manage Data in react web applications ?
-- Higher Order Component (HOC)
+- **Higher Order Component (HOC)**
   - HOC is functions, which takes input as Component & add some enhancement / new feature on top of input Component and returns the new Component, will not change / modify the input Components (read only)
   - When, how & why do we use HOC ?
   - HOC are Pure Functions
   - What is Pure functions ?
     - Functions which take inputs, does not change / modifies the inputs, its read only
+- Data layer in react application
+  - How do you manage data in react web application ?
+-
 
 ## Assignments - Q & A
 
@@ -30,4 +33,4 @@ sidebar_position: 11
 
     2.asda
 
-**Stopped at 20min**
+**Stopped at 30min**
